@@ -22,6 +22,15 @@ body {
 
 .header h1 .seo {
     color: #d9dcd6;
+    float: left;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #2a607c;
+    padding: 20px;
+    float: right;
 }
 
 .header div {
