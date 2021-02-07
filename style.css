@@ -153,6 +153,11 @@ p {
     max-width: 150px;
 }
 
+.marketing-meeting {
+   display: block;
+   margin: 0;
+}
+
 .search-engine-optimization {
     flex: 1 0 200px;
     margin-bottom: 20px;
